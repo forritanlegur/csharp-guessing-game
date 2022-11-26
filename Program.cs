@@ -22,7 +22,7 @@ while (true)
     Console.WriteLine();
     Console.WriteLine("YOU MUST GUESS A RANDOMLY SELECTED WORD");
     Console.WriteLine("THE WORD WILL ALWAYS BE FIVE LETTERS LONG.");
-    Console.WriteLine("YOU WILL BE TOLD WHAT CHARACTERS YOU GUESSED CORRECTLY´, IF ANY.");
+    Console.WriteLine("YOU WILL BE TOLD WHAT CHARACTERS YOU GUESSED CORRECTLY, IF ANY.");
     Console.WriteLine();
     //Get random word
     Random random = new Random();
